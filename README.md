@@ -1,7 +1,7 @@
 # About myself
 I'm an Industrial Engineer and a **FullStack developer** with a Master's degree on IT Security.  
-I am currently working in [Kyohei Ltda](https://www.kyohei.com.bo/en/), a company I founded in memory to my brother,
-who led me into programming, electronics and is my main source of inspiration.
+I am currently working in [Kyohei Ltda](https://www.kyohei.com.bo/en/), a company I founded in memory to my brother.  
+He led me into programming, electronics and is the main source of inspiration.
 - 🔭 I mostly work on **Odoo custom modules**
 - 🌱 I want to know more about **IoT** solutions and aplications
 - ⚡ I am currently taking the **MIT Full-Stack Certification**
