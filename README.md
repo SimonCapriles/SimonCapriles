@@ -15,4 +15,3 @@ These are some of my projects which you can find on [Github](https://github.com/
 ## Contact me
 - LinkedIn: <a href="https://www.linkedin.com/in/simon-capriles-1a83bbb2/">LinkedIn: Simon Capriles</a>
 - Email: <a href="mailto:simon.capriles@kyohei.com.bo"><i class="font-icon icon-envelope"></i>simon.capriles@kyohei.com.bo</a>
-- Skype: <a href="skype:simon.capriles">Simon Capriles</a>
