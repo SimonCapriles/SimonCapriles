@@ -4,7 +4,7 @@ I am currently working in [Kyohei Ltda](https://www.kyohei.com.bo/en/), a compan
 He led me into programming, electronics and is my main source of inspiration.
 - 🔭 I mostly work on **Odoo custom modules**
 - 🌱 I want to know more about **IoT** solutions and aplications
-- ⚡ I am currently taking the **MIT Full-Stack Certification**
+- ⚡ I am an MIT Full-Stack Certified Developer
 
 ## My Public Projects
 These are some of my projects which you can find on [Github](https://github.com/):
